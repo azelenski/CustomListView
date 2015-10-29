@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="orianna_t">Заводная леди</string>
+    <string name="nami_t">Повелительница морей</string>
+    <string name="malzahar_t">Повелительница морей</string>
+    <string name="malphite_t">Осколок монолита</string>
+    <string name="leona_t">Ослепительный рассвет</string>
+    <string name="kindred_t">Вечные охотники</string>
+    <string name="kennen_t">Средце бури</string>
+    <string name="kalista_t">Копьё возмездия</string>
+    <string name="jinx_t">Безбашенная хулиганка</string>
+    <string name="irelia_t">Воля клинков</string>
+    <string name="fiora_t">Бесподобный дуэлянт</string>
+    <string name="chogath_t">Ужас Бездны</string>
+    <string name="azir_t">Император пустыни</string>
+    <string name="ashe_t">Ледяная лучница</string>
+    <string name="amumu_t">Печальная мумия</string>
+</resources>

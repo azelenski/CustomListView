@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="orianna">Орианна</string>
+    <string name="nami">Нами</string>
+    <string name="malzahar">Мальзахар</string>
+    <string name="malphite">Мальфит</string>
+    <string name="leona">Леона</string>
+    <string name="kindred">Киндред</string>
+    <string name="kennen">Кеннен</string>
+    <string name="kalista">Калиста</string>
+    <string name="jinx">Джинкс</string>
+    <string name="irelia">Ирелия</string>
+    <string name="fiora">Фиора</string>
+    <string name="chogath">ЧоГат</string>
+    <string name="azir">Азир</string>
+    <string name="ashe">Эш</string>
+    <string name="amumu">Амуму</string>
+</resources>

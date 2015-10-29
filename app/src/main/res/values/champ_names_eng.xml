@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="orianna">Orianna</string>
+    <string name="nami">Nami</string>
+    <string name="malzahar">Malzahar</string>
+    <string name="malphite">Malphite</string>
+    <string name="leona">Leona</string>
+    <string name="kindred">Kindred</string>
+    <string name="kennen">Kennen</string>
+    <string name="kalista">Kalista</string>
+    <string name="jinx">Jinx</string>
+    <string name="irelia">Irelia</string>
+    <string name="fiora">Fiora</string>
+    <string name="chogath">ChoGath</string>
+    <string name="azir">Azir</string>
+    <string name="ashe">Ashe</string>
+    <string name="amumu">Amumu</string>
+</resources>

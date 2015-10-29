@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="orianna_t">The Lady of Clockwork</string>
+    <string name="nami_t">The Tidecaller</string>
+    <string name="malzahar_t">The Prophet of the Void</string>
+    <string name="malphite_t">Shard of the Monolith</string>
+    <string name="leona_t">The Radiant Dawn</string>
+    <string name="kindred_t">The Eternal Hunters</string>
+    <string name="kennen_t">The Heart of the Tempest</string>
+    <string name="kalista_t">The Spear of Vengeance</string>
+    <string name="jinx_t">The Loose Cannon</string>
+    <string name="irelia_t">The Will of the Blades</string>
+    <string name="fiora_t">The Grand Duelist</string>
+    <string name="chogath_t">The Terror of the Void</string>
+    <string name="azir_t">The Emperor of the Sands</string>
+    <string name="ashe_t">The Frost Archer</string>
+    <string name="amumu_t">The Sad Mummy</string>
+</resources>
